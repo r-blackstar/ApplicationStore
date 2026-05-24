@@ -4,7 +4,7 @@
   "icon": "",
   "version": "1.17.0",
   "versionCode": 583,
-  "description": "",
+  "description": "LocalSend 是一款跨平台应用，通过 REST API 和 HTTPS 加密实现设备间的安全通信。与其他依赖外部服务器的消息应用不同，LocalSend 不需要互联网连接或第三方服务器，因此成为快速且可靠的本地通信解决方案。",
   "changelog": "",
   "minSdkVersion": 21,
   "targetSdkVersion": 34,

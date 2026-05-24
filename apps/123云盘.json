@@ -1,0 +1,24 @@
+{
+  "appId": "com.mfcloudcalculate.networkdisk",
+  "name": "123云盘",
+  "icon": "",
+  "version": "3.1.1",
+  "versionCode": 311,
+  "description": "",
+  "changelog": "",
+  "minSdkVersion": 24,
+  "targetSdkVersion": 31,
+  "supportedArchitectures": [
+    "arm64-v8a",
+    "x86_64"
+  ],
+  "packageSize": 101899157,
+  "packageSizeHuman": "97.2 MB",
+  "downloadUrl": "https://app.123pan.com/app/android/v1/app_release_v3.2.6_3216_signed.apk",
+  "downloadUrlAlt": "",
+  "sha256": "",
+  "category": "",
+  "developer": "",
+  "releaseDate": "",
+  "screenshots": []
+}

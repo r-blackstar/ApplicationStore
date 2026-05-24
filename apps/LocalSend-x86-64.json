@@ -1,0 +1,21 @@
+{
+  "appId": "org.localsend.localsend_app",
+  "name": "LocalSend",
+  "icon": "",
+  "version": "1.17.0",
+  "versionCode": 583,
+  "description": "",
+  "changelog": "",
+  "minSdkVersion": 21,
+  "targetSdkVersion": 34,
+  "supportedArchitectures": [ "x86_64" ],
+  "packageSize": 17491108,
+  "packageSizeHuman": "16.7 MB",
+  "downloadUrl": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-x64.apk",
+  "downloadUrlAlt": "",
+  "sha256": "",
+  "categories": [ "Android 5.0", "x86_64" ],
+  "developer": "",
+  "releaseDate": "",
+  "screenshots": []
+}

@@ -1,0 +1,21 @@
+{
+  "appId": "org.localsend.localsend_app",
+  "name": "LocalSend",
+  "icon": "",
+  "version": "1.17.0",
+  "versionCode": 583,
+  "description": "",
+  "changelog": "",
+  "minSdkVersion": 21,
+  "targetSdkVersion": 34,
+  "supportedArchitectures": [ "armeabi-v7a" ],
+  "packageSize": 17491108,
+  "packageSizeHuman": "16.3MB",
+  "downloadUrl": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-arm32v7.apk",
+  "downloadUrlAlt": "",
+  "sha256": "",
+  "categories": [ "Android 5.0", "armeabi-v7a" ],
+  "developer": "",
+  "releaseDate": "",
+  "screenshots": []
+}

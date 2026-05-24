@@ -14,8 +14,12 @@
   "downloadUrl": "https://github.com/r-blackstar/Oday/releases/download/8.9.1/Oday.-.v8.9.1.apk",
   "downloadUrlAlt": "",
   "sha256": "",
-  "category": "工具",
-  "developer": "开发者名称",
+  "category":  [
+    "arm64-v8a",
+    "Android 11.0"
+  ],
+
+  "developer": "DestinyWind",
   "releaseDate": "2026-5-24",
   "screenshots":[]
 }

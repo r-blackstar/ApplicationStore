@@ -1,0 +1,21 @@
+{
+  "appId": "cn.destinywind.appdetector2",
+  "name": "应用检测器",
+  "icon": "",
+  "version": "1.2.5",
+  "versionCode": 12,
+  "description": "",
+  "changelog": "",
+  "minSdkVersion": 21,
+  "targetSdkVersion": 35,
+  "supportedArchitectures": [ "arm64-v8a" ],
+  "packageSize": 1003578,
+  "packageSizeHuman": "980.1 KB",
+  "downloadUrl": "https://github.com/r-blackstar/ApplicationStore/releases/download/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%B8%8E%E5%BA%94%E7%94%A8%E6%A3%80%E6%B5%8B/appdetector-arm64-v8a-release.apk",
+  "downloadUrlAlt": "",
+  "sha256": "",
+  "categories": [ "arm64-v8a", "Android 5.0" ],
+  "developer": "",
+  "releaseDate": "",
+  "screenshots": []
+}

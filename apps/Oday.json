@@ -11,13 +11,13 @@
   "supportedArchitectures": ["arm64-v8a"],
   "packageSize": 25000000,
   "packageSizeHuman": "27.74 MB",
-  "downloadUrl": "https://example.com/app-1.0.0.apk",
+  "downloadUrl": "https://github.com/r-blackstar/ApplicationStore/blob/main/apk/Oday%20-%20v8.9.1.apk",
   "downloadUrlAlt": "",
   "sha256": "",
   "category": "工具",
   "developer": "开发者名称",
-  "releaseDate": "2024-10-15",
+  "releaseDate": "2026-5-24",
   "screenshots": [
-    "https://raw.githubusercontent.com/用户名/仓库名/main/screenshots/screenshot_1.png"
+    ""
   ]
 }

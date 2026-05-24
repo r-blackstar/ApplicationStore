@@ -9,7 +9,7 @@
   "minSdkVersion": 30,
   "targetSdkVersion": 36,
   "supportedArchitectures": [
-    "arm64-v8a"
+    "armeabi-v7a"
   ],
   "packageSize": 18045882,
   "packageSizeHuman": "17.2 MB",
